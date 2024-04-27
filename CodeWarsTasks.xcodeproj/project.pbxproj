@@ -14,6 +14,7 @@
 		FA944DAA2BDD13CF00329949 /* int32 to IPv4.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DA92BDD13CF00329949 /* int32 to IPv4.swift */; };
 		FA944DAC2BDD146100329949 /* Split Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DAB2BDD146100329949 /* Split Strings.swift */; };
 		FA944DAE2BDD14B300329949 /* Sum of Digits : Digital Root.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DAD2BDD14B300329949 /* Sum of Digits : Digital Root.swift */; };
+		FA944DB02BDD15E600329949 /* Roman Numerals Decoder  .swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DAF2BDD15E600329949 /* Roman Numerals Decoder  .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,7 @@
 		FA944DA92BDD13CF00329949 /* int32 to IPv4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "int32 to IPv4.swift"; sourceTree = "<group>"; };
 		FA944DAB2BDD146100329949 /* Split Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Split Strings.swift"; sourceTree = "<group>"; };
 		FA944DAD2BDD14B300329949 /* Sum of Digits : Digital Root.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of Digits : Digital Root.swift"; sourceTree = "<group>"; };
+		FA944DAF2BDD15E600329949 /* Roman Numerals Decoder  .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Roman Numerals Decoder  .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				FA944DA32BDD12DA00329949 /* Find the unique number.swift */,
 				FA944DAB2BDD146100329949 /* Split Strings.swift */,
 				FA944DAD2BDD14B300329949 /* Sum of Digits : Digital Root.swift */,
+				FA944DAF2BDD15E600329949 /* Roman Numerals Decoder  .swift */,
 			);
 			path = "6 Kyu";
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				FA944D9A2BDD117B00329949 /* main.swift in Sources */,
 				FA944DA22BDD11F300329949 /* Bit Counting.swift in Sources */,
 				FA944DAE2BDD14B300329949 /* Sum of Digits : Digital Root.swift in Sources */,
+				FA944DB02BDD15E600329949 /* Roman Numerals Decoder  .swift in Sources */,
 				FA944DAC2BDD146100329949 /* Split Strings.swift in Sources */,
 				FA944DA82BDD136C00329949 /* Number of trailing zeros of N!.swift in Sources */,
 				FA944DA42BDD12DA00329949 /* Find the unique number.swift in Sources */,
