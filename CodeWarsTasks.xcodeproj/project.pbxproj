@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA0656C22BE1243800F1456C /* Human readable duration format  .swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0656C12BE1243800F1456C /* Human readable duration format  .swift */; };
 		FA14F7CA2BDFBFDF00AD4B46 /* Roman Numerals Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA14F7C92BDFBFDF00AD4B46 /* Roman Numerals Helper.swift */; };
 		FA1C2E5C2BDE786B002307D0 /* Primorial Of a Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1C2E5B2BDE786B002307D0 /* Primorial Of a Number.swift */; };
 		FA944D9A2BDD117B00329949 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944D992BDD117B00329949 /* main.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		FA0656C12BE1243800F1456C /* Human readable duration format  .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Human readable duration format  .swift"; sourceTree = "<group>"; };
 		FA14F7C92BDFBFDF00AD4B46 /* Roman Numerals Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Roman Numerals Helper.swift"; sourceTree = "<group>"; };
 		FA1C2E5B2BDE786B002307D0 /* Primorial Of a Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Primorial Of a Number.swift"; sourceTree = "<group>"; };
 		FA944D962BDD117B00329949 /* CodeWarsTasks */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodeWarsTasks; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -60,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				FA14F7C92BDFBFDF00AD4B46 /* Roman Numerals Helper.swift */,
+				FA0656C12BE1243800F1456C /* Human readable duration format  .swift */,
 			);
 			path = "4 Key";
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				FA14F7CA2BDFBFDF00AD4B46 /* Roman Numerals Helper.swift in Sources */,
 				FA944D9A2BDD117B00329949 /* main.swift in Sources */,
 				FA1C2E5C2BDE786B002307D0 /* Primorial Of a Number.swift in Sources */,
+				FA0656C22BE1243800F1456C /* Human readable duration format  .swift in Sources */,
 				FA944DA22BDD11F300329949 /* Bit Counting.swift in Sources */,
 				FA944DAE2BDD14B300329949 /* Sum of Digits : Digital Root.swift in Sources */,
 				FA944DB02BDD15E600329949 /* Roman Numerals Decoder  .swift in Sources */,
