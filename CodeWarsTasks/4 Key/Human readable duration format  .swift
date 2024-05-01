@@ -46,11 +46,11 @@ func formatDuration(_ seconds: Int) -> String {
   
   var result = ""
   
-  let remainSeconds = stringRepresent(seconds: seconds % 60)
-  let minutes = stringRepresent(minutes: (seconds) / 60 % 60)
-  let hours = stringRepresent(hours: (seconds / 3600) % 24)
-  let days = stringRepresent(days: (seconds / 86400) % 365)
-  let years = stringRepresent(years: seconds / 31536000)
+  let remainSeconds = stringRepresent(for:  "second", number: seconds % 60)
+  let minutes = stringRepresent(for: "minute", number: (seconds) / 60 % 60)
+  let hours = stringRepresent(for: "hour", number: (seconds / 3600) % 24)
+  let days = stringRepresent(for: "day", number: (seconds / 86400) % 365)
+  let years = stringRepresent(for: "year", number: seconds / 31536000)
   
   var arrayStrings = [years, days, hours, minutes, remainSeconds].filter { !$0.isEmpty }
   var arraySlice = arrayStrings.count >= 2 ? arrayStrings.dropLast(2) : arrayStrings
@@ -93,32 +93,8 @@ fileprivate func lastFormatRepresentation(mainString: String, _ formatOne: Strin
   return mainString
 }
 
-fileprivate func stringRepresent(years: Int) -> String {
-  guard years != 0 else { return "" }
+fileprivate func stringRepresent(for name: String, number: Int) -> String {
+  guard number != 0 else { return "" }
   
-  return years == 1 ? "\(years) year" : "\(years) years"
-}
-
-fileprivate func stringRepresent(days: Int) -> String {
-  guard days != 0 else { return "" }
-  
-  return days == 1 ? "\(days) day" : "\(days) days"
-}
-
-fileprivate func stringRepresent(hours: Int) -> String {
-  guard hours != 0 else { return "" }
-  
-  return hours == 1 ? "\(hours) hour" : "\(hours) hours"
-}
-
-fileprivate func stringRepresent(minutes: Int) -> String {
-  guard minutes != 0 else { return "" }
-  
-  return minutes == 1 ? "\(minutes) minute" : "\(minutes) minutes"
-}
-
-fileprivate func stringRepresent(seconds: Int) -> String {
-  guard seconds != 0 else { return "" }
-  
-  return seconds == 1 ? "\(seconds) second" : "\(seconds) seconds"
+  return number == 1 ? "\(number) \(name)" : "\(number) \(name)s"
 }
