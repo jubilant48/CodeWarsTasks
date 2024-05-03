@@ -7,11 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FA0656C22BE1243800F1456C /* Human readable duration format  .swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0656C12BE1243800F1456C /* Human readable duration format  .swift */; };
+		FA0656C22BE1243800F1456C /* Human readable duration format.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0656C12BE1243800F1456C /* Human readable duration format.swift */; };
 		FA14F7CA2BDFBFDF00AD4B46 /* Roman Numerals Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA14F7C92BDFBFDF00AD4B46 /* Roman Numerals Helper.swift */; };
 		FA1C2E5C2BDE786B002307D0 /* Primorial Of a Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1C2E5B2BDE786B002307D0 /* Primorial Of a Number.swift */; };
-		FA3674542BE3C4A7006BAE3A /* Opposite number  .swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3674532BE3C4A7006BAE3A /* Opposite number  .swift */; };
-		FA75F6FF2BE27B1F004F6DEB /* Reversed sequence  .swift in Sources */ = {isa = PBXBuildFile; fileRef = FA75F6FE2BE27B1F004F6DEB /* Reversed sequence  .swift */; };
+		FA3674542BE3C4A7006BAE3A /* Opposite number.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3674532BE3C4A7006BAE3A /* Opposite number.swift */; };
+		FA740A8D2BE553FF00DD5943 /* Beginner - Reduce but Grow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA740A8C2BE553FF00DD5943 /* Beginner - Reduce but Grow.swift */; };
+		FA75F6FF2BE27B1F004F6DEB /* Reversed sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA75F6FE2BE27B1F004F6DEB /* Reversed sequence.swift */; };
 		FA944D9A2BDD117B00329949 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944D992BDD117B00329949 /* main.swift */; };
 		FA944DA22BDD11F300329949 /* Bit Counting.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DA12BDD11F300329949 /* Bit Counting.swift */; };
 		FA944DA42BDD12DA00329949 /* Find the unique number.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DA32BDD12DA00329949 /* Find the unique number.swift */; };
@@ -19,7 +20,7 @@
 		FA944DAA2BDD13CF00329949 /* int32 to IPv4.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DA92BDD13CF00329949 /* int32 to IPv4.swift */; };
 		FA944DAC2BDD146100329949 /* Split Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DAB2BDD146100329949 /* Split Strings.swift */; };
 		FA944DAE2BDD14B300329949 /* Sum of Digits : Digital Root.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DAD2BDD14B300329949 /* Sum of Digits : Digital Root.swift */; };
-		FA944DB02BDD15E600329949 /* Roman Numerals Decoder  .swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DAF2BDD15E600329949 /* Roman Numerals Decoder  .swift */; };
+		FA944DB02BDD15E600329949 /* Roman Numerals Decoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DAF2BDD15E600329949 /* Roman Numerals Decoder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,11 +36,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		FA0656C12BE1243800F1456C /* Human readable duration format  .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Human readable duration format  .swift"; sourceTree = "<group>"; };
+		FA0656C12BE1243800F1456C /* Human readable duration format.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Human readable duration format.swift"; sourceTree = "<group>"; };
 		FA14F7C92BDFBFDF00AD4B46 /* Roman Numerals Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Roman Numerals Helper.swift"; sourceTree = "<group>"; };
 		FA1C2E5B2BDE786B002307D0 /* Primorial Of a Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Primorial Of a Number.swift"; sourceTree = "<group>"; };
-		FA3674532BE3C4A7006BAE3A /* Opposite number  .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Opposite number  .swift"; sourceTree = "<group>"; };
-		FA75F6FE2BE27B1F004F6DEB /* Reversed sequence  .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reversed sequence  .swift"; sourceTree = "<group>"; };
+		FA3674532BE3C4A7006BAE3A /* Opposite number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Opposite number.swift"; sourceTree = "<group>"; };
+		FA740A8C2BE553FF00DD5943 /* Beginner - Reduce but Grow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Beginner - Reduce but Grow.swift"; sourceTree = "<group>"; };
+		FA75F6FE2BE27B1F004F6DEB /* Reversed sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reversed sequence.swift"; sourceTree = "<group>"; };
 		FA944D962BDD117B00329949 /* CodeWarsTasks */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodeWarsTasks; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA944D992BDD117B00329949 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		FA944DA12BDD11F300329949 /* Bit Counting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bit Counting.swift"; sourceTree = "<group>"; };
@@ -48,7 +50,7 @@
 		FA944DA92BDD13CF00329949 /* int32 to IPv4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "int32 to IPv4.swift"; sourceTree = "<group>"; };
 		FA944DAB2BDD146100329949 /* Split Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Split Strings.swift"; sourceTree = "<group>"; };
 		FA944DAD2BDD14B300329949 /* Sum of Digits : Digital Root.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of Digits : Digital Root.swift"; sourceTree = "<group>"; };
-		FA944DAF2BDD15E600329949 /* Roman Numerals Decoder  .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Roman Numerals Decoder  .swift"; sourceTree = "<group>"; };
+		FA944DAF2BDD15E600329949 /* Roman Numerals Decoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Roman Numerals Decoder.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +68,7 @@
 			isa = PBXGroup;
 			children = (
 				FA14F7C92BDFBFDF00AD4B46 /* Roman Numerals Helper.swift */,
-				FA0656C12BE1243800F1456C /* Human readable duration format  .swift */,
+				FA0656C12BE1243800F1456C /* Human readable duration format.swift */,
 			);
 			path = "4 Key";
 			sourceTree = "<group>";
@@ -74,8 +76,9 @@
 		FA75F6FD2BE27AEF004F6DEB /* 8 kyu */ = {
 			isa = PBXGroup;
 			children = (
-				FA75F6FE2BE27B1F004F6DEB /* Reversed sequence  .swift */,
-				FA3674532BE3C4A7006BAE3A /* Opposite number  .swift */,
+				FA75F6FE2BE27B1F004F6DEB /* Reversed sequence.swift */,
+				FA3674532BE3C4A7006BAE3A /* Opposite number.swift */,
+				FA740A8C2BE553FF00DD5943 /* Beginner - Reduce but Grow.swift */,
 			);
 			path = "8 kyu";
 			sourceTree = "<group>";
@@ -115,7 +118,7 @@
 				FA944DA32BDD12DA00329949 /* Find the unique number.swift */,
 				FA944DAB2BDD146100329949 /* Split Strings.swift */,
 				FA944DAD2BDD14B300329949 /* Sum of Digits : Digital Root.swift */,
-				FA944DAF2BDD15E600329949 /* Roman Numerals Decoder  .swift */,
+				FA944DAF2BDD15E600329949 /* Roman Numerals Decoder.swift */,
 				FA1C2E5B2BDE786B002307D0 /* Primorial Of a Number.swift */,
 			);
 			path = "6 Kyu";
@@ -188,17 +191,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA3674542BE3C4A7006BAE3A /* Opposite number  .swift in Sources */,
+				FA3674542BE3C4A7006BAE3A /* Opposite number.swift in Sources */,
 				FA14F7CA2BDFBFDF00AD4B46 /* Roman Numerals Helper.swift in Sources */,
+				FA740A8D2BE553FF00DD5943 /* Beginner - Reduce but Grow.swift in Sources */,
 				FA944D9A2BDD117B00329949 /* main.swift in Sources */,
 				FA1C2E5C2BDE786B002307D0 /* Primorial Of a Number.swift in Sources */,
-				FA0656C22BE1243800F1456C /* Human readable duration format  .swift in Sources */,
+				FA0656C22BE1243800F1456C /* Human readable duration format.swift in Sources */,
 				FA944DA22BDD11F300329949 /* Bit Counting.swift in Sources */,
 				FA944DAE2BDD14B300329949 /* Sum of Digits : Digital Root.swift in Sources */,
-				FA944DB02BDD15E600329949 /* Roman Numerals Decoder  .swift in Sources */,
+				FA944DB02BDD15E600329949 /* Roman Numerals Decoder.swift in Sources */,
 				FA944DAC2BDD146100329949 /* Split Strings.swift in Sources */,
 				FA944DA82BDD136C00329949 /* Number of trailing zeros of N!.swift in Sources */,
-				FA75F6FF2BE27B1F004F6DEB /* Reversed sequence  .swift in Sources */,
+				FA75F6FF2BE27B1F004F6DEB /* Reversed sequence.swift in Sources */,
 				FA944DA42BDD12DA00329949 /* Find the unique number.swift in Sources */,
 				FA944DAA2BDD13CF00329949 /* int32 to IPv4.swift in Sources */,
 			);
