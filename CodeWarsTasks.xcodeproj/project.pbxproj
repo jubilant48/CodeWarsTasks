@@ -21,6 +21,7 @@
 		FA944DAC2BDD146100329949 /* Split Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DAB2BDD146100329949 /* Split Strings.swift */; };
 		FA944DAE2BDD14B300329949 /* Sum of Digits : Digital Root.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DAD2BDD14B300329949 /* Sum of Digits : Digital Root.swift */; };
 		FA944DB02BDD15E600329949 /* Roman Numerals Decoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA944DAF2BDD15E600329949 /* Roman Numerals Decoder.swift */; };
+		FAFB8FB62BE6B99C00DC273D /* Sum The Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFB8FB52BE6B99C00DC273D /* Sum The Strings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +52,7 @@
 		FA944DAB2BDD146100329949 /* Split Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Split Strings.swift"; sourceTree = "<group>"; };
 		FA944DAD2BDD14B300329949 /* Sum of Digits : Digital Root.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of Digits : Digital Root.swift"; sourceTree = "<group>"; };
 		FA944DAF2BDD15E600329949 /* Roman Numerals Decoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Roman Numerals Decoder.swift"; sourceTree = "<group>"; };
+		FAFB8FB52BE6B99C00DC273D /* Sum The Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum The Strings.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				FA75F6FE2BE27B1F004F6DEB /* Reversed sequence.swift */,
 				FA3674532BE3C4A7006BAE3A /* Opposite number.swift */,
 				FA740A8C2BE553FF00DD5943 /* Beginner - Reduce but Grow.swift */,
+				FAFB8FB52BE6B99C00DC273D /* Sum The Strings.swift */,
 			);
 			path = "8 kyu";
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				FA944DB02BDD15E600329949 /* Roman Numerals Decoder.swift in Sources */,
 				FA944DAC2BDD146100329949 /* Split Strings.swift in Sources */,
 				FA944DA82BDD136C00329949 /* Number of trailing zeros of N!.swift in Sources */,
+				FAFB8FB62BE6B99C00DC273D /* Sum The Strings.swift in Sources */,
 				FA75F6FF2BE27B1F004F6DEB /* Reversed sequence.swift in Sources */,
 				FA944DA42BDD12DA00329949 /* Find the unique number.swift in Sources */,
 				FA944DAA2BDD13CF00329949 /* int32 to IPv4.swift in Sources */,
